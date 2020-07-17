@@ -6,6 +6,6 @@ Creates data science and artificial intelligence solutions, build data-oriented 
 
 Solution-driven professional with experience in team leading and designing/implementing technical solutions for data science and artificial intelligence projects.
 
-Programming, data science and machine learning instructor with 60K+ students and 4.7 scores on udemy.com.
+Programming, data science and machine learning instructor with 65K+ students and 4.7 scores on udemy.com.
 
 Entrepreneur and data activist (Organizing competitions, panels and meetups about DS & AI) 
